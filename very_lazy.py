@@ -7,13 +7,7 @@
 
 # importing packages
 import os
-import qrcode
-import socket
-import argparse
-import http.server
-import socketserver
 
-from PIL import Image
 from pytube import YouTube
 
 
