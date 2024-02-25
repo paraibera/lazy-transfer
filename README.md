@@ -19,3 +19,11 @@ Very useful when I need to download a live set (or music compilations) and don't
 Script will ask for a YouTube URL and display a QR code afterwards. 
 
 Just point your camera to it and download your file to your phone.
+
+## EVEN MORE LAZY (if you have Termux in your Android)
+
+* open Termux
+* git clone
+* `python very_lazy.py`
+
+Script will ask for a YouTube URL and save it directly to your Downloads folder in your phone.
